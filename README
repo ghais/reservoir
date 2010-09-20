@@ -1,0 +1,2 @@
+Reservoir sampling java library.
+Implementeing Vitter's algorithms X, Y, and Z use far fewer random numbers by choosing how many items to skip, rather than deciding whether or not to skip each item.
